@@ -6,4 +6,3 @@ scikit-learn==1.5.1
 miceforest
 matplotlib
 catboost
-python-3.11
